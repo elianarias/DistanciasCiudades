@@ -18,7 +18,7 @@ namespace tprecorridos
             InitializeComponent();
         }
 
-        MySqlConnection conexion = new MySqlConnection("server=db4free.net; port=3306; user id=tprecorridos; password=1123431629; database=bdrecorridos; ");
+        MySqlConnection conexion = new MySqlConnection("server=*****; port=****; user id=********; password=******; database=*****; ");
       
 
         private void button4_Click(object sender, EventArgs e)
